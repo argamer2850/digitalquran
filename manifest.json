@@ -1,0 +1,15 @@
+{
+  "name": "Al-Quran Digital",
+  "short_name": "Quran",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#00695c",
+  "theme_color": "#00695c",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2972/2972130.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
