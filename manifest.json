@@ -1,0 +1,16 @@
+{
+  "name": "Al-Quran Digital",
+  "short_name": "Quran",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#00695c",
+  "theme_color": "#00695c",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
